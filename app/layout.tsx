@@ -8,7 +8,7 @@ const inter = Inter({
   variable: '--font-inter',
 })
 
-const title = 'PlannerEdge Labs | Focused tools for exam preparation'
+const title = 'PlannerEdge Labs | MPSC Planner & UPSC Planner'
 const description =
   'PlannerEdge Labs creates focused digital products that help aspirants prepare with clarity, consistency, and confidence.'
 
