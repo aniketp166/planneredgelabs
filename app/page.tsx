@@ -27,7 +27,6 @@ export default function Home() {
 
       <main className="container main-content">
         <section className="intro" aria-labelledby="page-heading">
-          <h1 id="page-heading">Exam preparation, thoughtfully built.</h1>
           <p>
             PlannerEdge Labs creates focused digital products that help aspirants prepare with
             clarity, consistency, and confidence.
